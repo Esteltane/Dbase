@@ -1,0 +1,4 @@
+"category","description","requirement"
+"A","Normal",""
+"B","Fragile","Packing sign-off required"
+"C","Hazardous","Qualified drivers only"
